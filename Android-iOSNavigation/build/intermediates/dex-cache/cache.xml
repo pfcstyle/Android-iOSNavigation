@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_c0ba9aeb7774ba5c4d37043e5cc1b072f1038e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_c5bc175aad5484f9fb7f993f214b77856c0f5bcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_5836654e8a6081def84f337857823ecedf1cb0ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_9cf10bddb685445708b01807914864794f25fe91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_94f3cec8af381e7a75493f0ec11c07dfea9b8f85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_78130a7c493b13f15c43f0379a8a87fd8bba86a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e542d589d4dbb5e23f5743f54d4a496ef0b58ad3">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_38f4e9d856fcd94befd965be40bf3e45bcd3fbe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_e46fb6ff656eab08b91cc1bb6ccccb95f4603377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e526cd2fac3e80d318dcd7d33d83c89bfaaed20d">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_39257e08716f3b7623e6acd87d20bd3916cb65c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_88acd1bcb8de80d51d2b938560736e1243db3f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_7ba6c122da7abd46687721a2fcefa97411834fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/developer/Documents/work/Android-iOSNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_22a2813d62f2b4606837d211a5f7409a7063ebd9/classes.dex" />
+    </item>
+
+</items>

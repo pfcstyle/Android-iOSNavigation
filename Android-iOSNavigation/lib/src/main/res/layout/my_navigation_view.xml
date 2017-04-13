@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <pfc.iosnavigation.MyNavigationToolBar
+        android:id="@+id/navi_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00bfff"/>
+    <RelativeLayout
+        android:id="@+id/content_view"
+        android:layout_below="@id/navi_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
